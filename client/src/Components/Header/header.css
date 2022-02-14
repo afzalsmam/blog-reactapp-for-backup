@@ -1,0 +1,24 @@
+/* .header{
+    margin-top: 60px;
+} */
+
+.headerTitles{
+    font-family: "lora", serif;
+    text-align: center;
+    color: #444;
+}
+
+.headerTitleLg{
+    position: absolute;
+    top: 14%;
+    left: 43%;
+    font-size: 85px;
+}
+
+.headerImg {
+    width: 100%;
+    height: 450px;
+    margin-top: 80px;
+    object-fit: cover;
+  }
+  
